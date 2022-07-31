@@ -22,6 +22,6 @@ Preview data, dataset metadata, and data glossary [here.](https://dax-cdn.cdn.ap
 
 ## Summary
 
-Congratulations for completing this first lab.
+Congratulations for completing this lab.
 
 In this lab, you have learnt how to use `plotly.graph_objects` and `plotly.express` for creating plots and charts.
